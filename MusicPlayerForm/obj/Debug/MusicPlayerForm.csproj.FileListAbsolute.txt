@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\bin\Debug\MusicPlayerForm.exe.config
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\bin\Debug\MusicPlayerForm.exe
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\bin\Debug\MusicPlayerForm.pdb
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.Form1.resources
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.Properties.Resources.resources
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.exe
+C:\Users\User\source\repos\MusicPlayerForm\MusicPlayerForm\obj\Debug\MusicPlayerForm.pdb
